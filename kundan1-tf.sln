@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kundan1-tf", "kundan1-tf\kundan1-tf.csproj", "{89859E24-1800-40BA-98BF-0FE93A379DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89859E24-1800-40BA-98BF-0FE93A379DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89859E24-1800-40BA-98BF-0FE93A379DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89859E24-1800-40BA-98BF-0FE93A379DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89859E24-1800-40BA-98BF-0FE93A379DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC14F72-F7C3-45BF-BD3F-B10D55EA9598}
+	EndGlobalSection
+EndGlobal
