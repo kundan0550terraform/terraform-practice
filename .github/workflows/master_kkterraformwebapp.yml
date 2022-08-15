@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kkterraformwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19835D1A5D664B83BB5374958BCDEA62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16609300E51F4AFEA274B59298954BB4 }}
           package: .
